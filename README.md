@@ -50,7 +50,7 @@ settings - User Settings Panel
 
 #### Easiest Way [Deploy To Heroku] 😪
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Watermark-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bharathgowd12
 
 #### The Hard Way 🤕
 ```sh
